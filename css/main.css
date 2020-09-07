@@ -415,6 +415,14 @@ p{
 .btn4:hover::before{
 	transform: scaleX(1);
 }
+
+.btn5 {
+    position: absolute;
+    margin: 25px auto;
+    left: 0;
+    right: 0;
+    width: 80px;
+}
 /*---------------*/
 
 .gallery{
